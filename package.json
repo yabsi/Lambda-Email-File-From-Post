@@ -1,0 +1,14 @@
+{
+  "name": "lambdaresumetoemail",
+  "version": "1.0.2",
+  "description": "Lambda Made to handle forms with files to an email",
+  "main": "postHandleEmailLambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@yabsi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.5"
+  }
+}
